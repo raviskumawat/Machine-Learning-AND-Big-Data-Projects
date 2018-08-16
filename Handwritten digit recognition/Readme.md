@@ -1,4 +1,5 @@
-
+# OpenCV IPwebcam.py
+To get image of handwritten text(Input image to be classified) from mobile camera(my laptop's webcam is not working) using IPwebcam 
 
 
 
