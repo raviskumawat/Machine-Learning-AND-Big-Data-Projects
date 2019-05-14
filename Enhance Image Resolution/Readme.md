@@ -16,5 +16,8 @@ vi) use Y channel from YCrCb format<br/>
 vii) normalize image 0-255 to 0-1<br/>
 <br/>
 <br/>
+
 ## what papers say??
-i) 
+i) Non-linear dimentionality reduction: Isometric feature mapping(Isomap) , locally linear embedding(LLE), laplacian eigen map<br/>
+
+
