@@ -5,16 +5,16 @@ Keep feeding the resoluted image back-to-back to make all images upto a final be
 
 
 ## Use GAN's (Recovers finer texture)? and Sub-pixel Convolution(Learns upscaling features)??
-
-Try:
-i) Sigmoid+log as GAN loss function
-ii) Perceptual loss/Adversarial loss/content loss
-iii) total variation loss/discriminator loss
-iv) subpixel reshuffle layer
-v) Replacing per-pixel loss by perceptual loss gives visually pleasing results
-vi) use Y channel from YCrCb format
-vii) normalize image 0-255 to 0-1
-
-
+<br/>
+Try:<br/>
+i) Sigmoid+log as GAN loss function<br/>
+ii) Perceptual loss/Adversarial loss/content loss<br/>
+iii) total variation loss/discriminator loss<br/>
+iv) subpixel reshuffle layer<br/>
+v) Replacing per-pixel loss by perceptual loss gives visually pleasing results<br/>
+vi) use Y channel from YCrCb format<br/>
+vii) normalize image 0-255 to 0-1<br/>
+<br/>
+<br/>
 ## what papers say??
 i) 
