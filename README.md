@@ -22,3 +22,8 @@ Input vs output vs original image
 ## Decision Tree: Titanic dataset
 Survivor prediction of passengers aboard Titanic based on passenger data such as age, gender etc
 ![](https://github.com/raviskumawat/Machine-Learning-AND-Big-Data-Projects/blob/master/Decision%20tree%20titanic%20dataset%5BR%5D/Titanic.png)
+
+
+## K-Means Clustering Implementation from scratch
+Initial input vs Final Output
+![](https://github.com/raviskumawat/Machine-Learning-AND-Big-Data-Projects/blob/master/K_Means%20clustering%20from%20scratch/Initial%20vs%20Final%20Output.png)
