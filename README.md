@@ -31,3 +31,7 @@ Initial input vs Final Output
 
 ## Phone Location prediction from an Image
 ![](https://github.com/raviskumawat/Machine-Learning-AND-Big-Data-Projects/blob/master/Find%20phone%20location%20in%20an%20Image/DNN%20Output.jpg)
+
+
+## Bank Term-Deposit Prediction
+![](https://github.com/raviskumawat/Machine-Learning-AND-Big-Data-Projects/blob/master/Bank%20term-deposit%20prediction/Results.png)
