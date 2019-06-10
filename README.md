@@ -27,3 +27,7 @@ Survivor prediction of passengers aboard Titanic based on passenger data such as
 ## K-Means Clustering Implementation from scratch
 Initial input vs Final Output
 ![](https://github.com/raviskumawat/Machine-Learning-AND-Big-Data-Projects/blob/master/K_Means%20clustering%20from%20scratch/Initial%20vs%20Final%20Output.png)
+
+
+## Phone Location prediction from an Image
+![](https://github.com/raviskumawat/Machine-Learning-AND-Big-Data-Projects/blob/master/Find%20phone%20location%20in%20an%20Image/DNN%20Output.jpg)
